@@ -40,7 +40,7 @@ project-folder/
 
 ---
 
-ْ## 🎯 Future Improvements
+##🎯 Future Improvements
 
 - Add dark/light mode toggle.
 - Add user profile section.
@@ -62,6 +62,4 @@ Developed by Joycie Gerges
 🌐 Portfolio: https://joycieportfolio.netlify.app/
 
 🔗 LinkedIn: www.linkedin.com/in/joycie-gerges-b45514248
-
-تحبي أظبطلك كمان **screenshot demo gif** إزاي تعمليه وتحطيه في الـ README؟
 
